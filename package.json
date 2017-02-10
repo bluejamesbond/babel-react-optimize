@@ -1,4 +1,5 @@
 {
+  "name": "babel-preset-react-optimize",
   "private": true,
   "license": "MIT",
   "scripts": {
